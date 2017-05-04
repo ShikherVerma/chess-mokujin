@@ -1,7 +1,7 @@
 {
-  "name": "new-chess-ai",
+  "name": "chess-mokujin",
   "version": "1.0.0",
-  "description": "",
+  "description": "Mokujin imitates the playing style of players.",
   "main": "index.js",
   "scripts": {
     "start": "http-server ./"
